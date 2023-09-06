@@ -1,5 +1,5 @@
 import Link from 'next/link';
-import Navbar from './Navbar'; // Update the import path
+import Navbar from './components/nav.js'; // Update the import path
 
 export default function Header({ name }) {
   return (
