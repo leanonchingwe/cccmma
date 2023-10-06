@@ -15,3 +15,14 @@ h6 {
 body {
   font-family: var(--font-secondary);
 }
+.container {
+  padding: 20px;
+}
+
+.article {
+  margin-bottom: 20px;
+}
+
+.stock-item {
+  margin: 10px 0;
+}
